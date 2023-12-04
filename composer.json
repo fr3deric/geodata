@@ -1,5 +1,5 @@
 {
-    "name": "papposilene/geodata",
+    "name": "fr3deric/geodata",
     "description": "A PHP package for countries, currencies & others little data",
     "keywords": [
         "geodata",
@@ -16,7 +16,7 @@
         "borders", "city", "cities",
         "geometry", "topology", "timezones"
     ],
-    "homepage": "https://github.com/papposilene/geodata",
+    "homepage": "https://github.com/fr3deric/geodata",
     "license": "MIT",
     "type": "library",
     "authors": [
